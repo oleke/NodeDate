@@ -1,0 +1,29 @@
+{
+  "name": "nodedate",
+  "version": "1.0.0",
+  "description": "Sample Project to migrate from PHP to Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleke/NodeDate.git"
+  },
+  "keywords": [
+    "Dating",
+    "App",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Abiodun Ogunleke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleke/NodeDate/issues"
+  },
+  "homepage": "https://github.com/oleke/NodeDate#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "express": "^4.16.4"
+  }
+}
